@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"els",
+				"elsif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ArduinoAmbientOrb.ino",
+			"settings":
+			{
+				"buffer_size": 168,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/geoff/Projects/HeliumProject/Helium/Dependencies/nvtt/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mongoose",
+			"wp_lavasandwich_",
+			"flags",
+			"math",
+			"../../",
+			"PREFIX",
+			"PlatformPch.h",
+			"51D92F2603FC4842067F2499",
+			"Pch.",
+			"String",
+			".activision.com",
+			"activision",
+			"Radiant",
+			"HEAD",
+			".gitignore",
+			"speex",
+			"ntl",
+			"Reference",
+			"Refere",
+			"$value",
+			"here\\n",
+			"ParseEnvVars",
+			"here",
+			"PrintErrorAndExit",
+			"print",
+			"=~",
+			"ParseEnvVars",
+			"allow_override",
+			"g_AllowOverrideEnvVars",
+			"IW_PROJECT_NAME",
+			"IW_PROJECT_PATH",
+			"IW_PROJECT_P4_DEPOT",
+			"Nx",
+			"iw6",
+			"iw5",
+			"PlatformpCH.cpp",
+			"PlatformPch.cpp",
+			"stdio.h",
+			"XML_UNICODE",
+			"GetFbxSdkLocation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wp_",
+			"IW_PROJECT_DIR"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ArduinoAmbientOrb.ino",
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino/Syntaxes/Arduino.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"file_exclude_patterns": ["*.sublime*"]
+		}
+	],
+    "settings":
+    {
+        "word_wrap": false,
+        "translate_tabs_to_spaces": false,
+        "tab_size": 4
+    }
+}
